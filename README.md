@@ -2,7 +2,7 @@
 Estou estudando HTML, CSS, JavaScript, React, TypeScrip, SQL.
 ## Esse é um resumo do meu GitHub:
 <div align="center">
-  <a href="https://github.com/Mateus-Batista12">
+  <a href="https://github.com/JhonatanSilva90">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonatanSilva90&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanSilva90&layout=compact&langs_count=7&theme=dark"/>
 </div>
