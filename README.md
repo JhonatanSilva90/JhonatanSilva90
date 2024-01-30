@@ -1,8 +1,9 @@
 # Olá, eu sou o Jhonatan!
 <div align="center">
-  <a align="center" href="https://www.linkedin.com/in/jhonatan-silva-834773292" target="_blank"><img height="90" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
+  <a href="https://www.linkedin.com/in/jhonatan-silva-834773292" target="_blank"><img height="90" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
 </div>
 Estou estudando JavaScript, React, TypeScrip, SQL.
+<br/>
 ## Esse é um resumo do meu GitHub:
 <div align="center">
   <a href="https://github.com/JhonatanSilva90">
