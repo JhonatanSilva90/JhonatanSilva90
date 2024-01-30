@@ -1,5 +1,8 @@
 # Olá, eu sou o Jhonatan!
-Estou estudando HTML, CSS, JavaScript, React, TypeScrip, SQL.
+<div align="center">
+  <a align="center" href="https://www.linkedin.com/in/jhonatan-silva-834773292" target="_blank"><img height="90" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
+</div>
+Estou estudando JavaScript, React, TypeScrip, SQL.
 ## Esse é um resumo do meu GitHub:
 <div align="center">
   <a href="https://github.com/JhonatanSilva90">
@@ -17,6 +20,4 @@ Estou estudando HTML, CSS, JavaScript, React, TypeScrip, SQL.
 </div>
 <br/>
 Apaixonado por tecnologia e por solucionar problemas que possam gerar impacto na vidas das pessoas.
-<div align="center">
-  <a align="center" href="https://www.linkedin.com/in/jhonatan-silva-834773292" target="_blank"><img height="90" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
-</div>
+
