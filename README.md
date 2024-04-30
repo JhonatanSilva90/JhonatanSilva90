@@ -5,9 +5,12 @@ Estou estudando JavaScript, React, TypeScrip, SQL.
 
 ## Esse é um resumo do meu GitHub:
 <div align="center">
-  <a href="https://github.com/JhonatanSilva90">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonatanSilva90&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanSilva90&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/JhonatanSilva90" target="_blank">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonatanSilva90&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/JhonatanSilva90" target="_blank">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanSilva90&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
 
 ## Tecnologias que eu uso no meu dia:
@@ -23,4 +26,5 @@ Apaixonado por tecnologia e por solucionar problemas que possam gerar impacto na
 <div align="center">
   <a href="https://www.linkedin.com/in/jhonatan-silva-834773292" target="_blank"><img height="90" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
 </div>
+
 
