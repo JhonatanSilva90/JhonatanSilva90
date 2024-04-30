@@ -26,5 +26,3 @@ Apaixonado por tecnologia e por solucionar problemas que possam gerar impacto na
 <div align="center">
   <a href="https://www.linkedin.com/in/jhonatan-silva-834773292" target="_blank"><img height="90" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
 </div>
-
-
