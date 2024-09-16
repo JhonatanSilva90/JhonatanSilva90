@@ -1,6 +1,6 @@
 # Olá, eu sou o Jhonatan!
 
-Estou estudando JavaScript, React, TypeScrip, SQL.
+Estou estudando JavaScript, React, React native, TypeScrip, SQL.
 <br/>
 
 ## Esse é um resumo do meu GitHub:
